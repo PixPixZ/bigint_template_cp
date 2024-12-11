@@ -1,5 +1,5 @@
 /*
-    credit: thay Truong Phuoc Hai
+    credit: thay Truong Phuoc Hai - PTNK
     template xu li so lon (v3)
 
     modified by hungg_261
