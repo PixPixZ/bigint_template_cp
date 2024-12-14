@@ -14,4 +14,4 @@ i left a credit note inside each template (credit the real author who wrote most
 
 <br><br>
 __feel free to use and modify if you want__<br>
-im still updating new templates (not very frequent tho because i have things to study (and probably a life too))
+im still updating new templates (not very frequently tho because im busy)
